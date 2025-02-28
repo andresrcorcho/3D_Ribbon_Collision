@@ -1,6 +1,6 @@
 # Subduction system response to ribbon collision: implications on the intra-plate force balance and the style of slab deformation
 
-[![DOI](https://zenodo.org/badge/160595955.svg)](https://zenodo.org/badge/latestdoi/160595955)
+[![DOI](https://zenodo.org/badge/940445097.svg)](https://doi.org/10.5281/zenodo.14943867)
 
 ## Abstract
 
